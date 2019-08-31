@@ -2,8 +2,8 @@
 
 ## Integrantes
 Álef Vinícius R. Dias - 16/0109311 <br />
-Bruno de Castro Silva - 17/0138534 <br />
-Felipe Moreno Lago dos Anjos - 17/0033392
+Bruno de Castro Silva (brunodecastrosilva) - 17/0138534 <br />
+Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392
 
 ## Experimento
 Será testada experimentalmente a estabilidade de vórtices quando a linha de vórtice forma um anel, um vórtice com topologia toroidal, e será comparado o tempo de duração ao se mudar as dimensões do vórtice.
