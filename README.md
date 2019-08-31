@@ -1,7 +1,7 @@
 # 2019.2-Vorticidade (Vórtice Toroidal)
 
 ## Integrantes
-Álef Vinícius R. Dias - 16/0109311 <br />
+Álef Vinícius R. Dias (alefvrdias) - 16/0109311 <br />
 Bruno de Castro Silva (brunodecastrosilva) - 17/0138534 <br />
 Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392
 
