@@ -19,3 +19,16 @@ O objetivo da segunda etapa consiste em estabelecer e utilizar os instrumentos d
 
 ## Avaliação de Viabilidade
 Não estão previstas dificuldades em relação ao custo e à montagem do experimento, pois a maior parte dos recursos necessários já está a disposição. O grande desafio esperado está presente na análise precisa dos vórtices produzidos. Sendo assim, serão necessários vários testes sob as mesmas condições, demandando muito tempo e um ambiente que não interfira no comportamento dos vórtices. Conclui-se então que o projeto é viável, dado que o desafio de precisão pode ser resolvido utilizando-se de ferramentas estatísticas.
+
+## Procedimentos Experimentais e Preparação
+De acordo com o teorema de Helmholtz, se uma linha de vortex é uma curva tangente em todos os pontos ao vetor do vórtex ω = ∇ × **u** e uma folha de vórtex é uma superfície tangente ao mesmo vetor em todos os pontos, a superfície (ou curva) de vórtex se movendo em um escoamento em um fluído isentrópico, continua como como uma superfície (ou curva) de vórtex e um tubo de vórtex é uma coleção de linhas de voltex, tal que elas podem se extender umas sobre as outras, então a força do tubo de vórtex é constante. Em outras palavras, vórtices são estáveis. Uma configuração ainda mais estável é quando o eixo central dos tubos de veortex forma um anel. É nessa configuração que está focado o estudo da estabilidade neste trabalho.
+É estimado que a etapa de experimentos e coleta de dados leve cerca de quatro semanas. Todos os membross se reunirão na FGA no horário de laboratório para a execução das atividades de acordo com o cronograma a baixo. O procedimento utilizado, uma vez qe o dispositivo de criação dos anéis de fumaça estiver operacional consiste em produzir para cada diametro especificado cinco anéis de fumaça, cronometrando sua duração e medidndo seu deslocamento, registrando as medidas em uma tabela, além de documentando o processo com fotos.
+
+### Cronograma
+
+Data  | Atividade
+----  | ---------
+18/09 | Confecção do dispositivo de anéis de fumaça e definição dos diâmetros dos furos testados
+02/10 | 
+09/10 |
+16/10 |
