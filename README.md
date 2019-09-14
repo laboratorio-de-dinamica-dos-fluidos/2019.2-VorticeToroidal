@@ -6,10 +6,10 @@ Bruno de Castro Silva (brunodecastrosilva) - 17/0138534 <br />
 Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392
 
 ## Experimento
-O objetivo desse experimento é determinar os parametros que influenciam na estabilbilidade de um votice toroidal. Será testada experimentalmente a estabilidade de vórtices quando a linha de vórtice forma um anel (um vórtice com topologia toroidal) e será comparado o tempo de duração ao se mudar as dimensões do vórtice.
+<p>O objetivo desse experimento é determinar os parametros que influenciam na estabilbilidade de um votice toroidal. Será testada experimentalmente a estabilidade de vórtices quando a linha de vórtice forma um anel (um vórtice com topologia toroidal) e será comparado o tempo de duração ao se mudar as dimensões do vórtice.
 
 ## Requisitos de Solução
-Serão criados anéis de fumaça com o dispositivo construído e, com uma trena e um cronômetro, serão medidos, a partir de sua formação até sua dissipação, o tempo de duração e a distância retilínea percorrida de cada anel de fumaça. A dimensão do vórtice será extraída do diâmetro da abertura utilizada no dispositivo para cada vórtice. Para minimizar os efeitos de irregularidades no ambiente e diferenças na formação dos vórtices de mesmo diâmetro, serão feitos múltiplos testes e uma análise estatística dos dados. Após a coleta de dados, será determinada a relação entre as grandezas medidas. 
+<p>Serão criados anéis de fumaça com o dispositivo construído e, com uma trena e um cronômetro, serão medidos, a partir de sua formação até sua dissipação, o tempo de duração e a distância retilínea percorrida de cada anel de fumaça. A dimensão do vórtice será extraída do diâmetro da abertura utilizada no dispositivo para cada vórtice. Para minimizar os efeitos de irregularidades no ambiente e diferenças na formação dos vórtices de mesmo diâmetro, serão feitos múltiplos testes e uma análise estatística dos dados. Após a coleta de dados, será determinada a relação entre as grandezas medidas. 
 
 ## Escopo do Experimento
 ### Etapa 1: Produção dos Vórtices
@@ -37,3 +37,6 @@ Data  | Atividade
 <p>Na primeira semana de atividades, no dia 18 de setembro, será construído o dispositivo para analisar os vórtices, assim como os diâmetros a serem utilizados no experimento. O aparato será constituído de um cilindro com um dos lados fechados com uma membrana impermeável e o outro lado aberto com um encaixe para alterar o diâmetro de saída. Na mesma semana serão confeccionadas dez saídas com diferentes tamanhos que serão usadas nas semanas seguintes para as medições.</p>
 <p>Em Outubro, nas três primeiras semanas serão feitas as medições, sendo na semana 1 e 2 os testes com 3 diâmetros cada e na terceira semana com 4 diâmetros. Os testes serão feitos todos da mesma forma.</p>
 <p>Utilizando uma máquina de fumaça, o dispositivo será preenchido e, após encaixar a saída com o diâmetro específico, usaremos a membrana para expulsar a fumaça, criando o vortéx e assim medindo as suas dimenções, tempo de duração, espaço percorrido e velocidade. Para cada uma das dez saídas o experimento será repetido cinco vezes e colocados os dados obtidos em uma tabela.</p>
+
+## Resultados esperados 
+<p>É esperado que a velocidade do vortice seja inversamente proporcional ao seu diâmetro. Como o teorema garante a permanência dos vórtices apenas em fluidos ideais, quanto mais as características do ar o afastarem das de um fluido ideal, menos estáveis espera-se que os vórtices sejam, logo, a estabilidade deve diminuir com com o aumento da velocidade. Sendo assim, o tempo de duração do vortice deve ser proporcional ao diâmetro. Por outro lado, o espaço percorrido por cada vortice pode não apresentar tanta variação, já que os vórtices mais velozes devem se dissipar em menos tempo e os mais lentos demorarem mais para se dissipar.
