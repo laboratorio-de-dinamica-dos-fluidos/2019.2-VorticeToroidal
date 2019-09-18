@@ -8,14 +8,18 @@ Bruno de Castro Silva (brunodecastrosilva) - 17/0138534 <br />
 Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 ## Experimento
-<p>O objetivo desse experimento é determinar os parâmetros que influenciam na estabilidade de um vórtice toroidal. Será testada experimentalmente a estabilidade de vórtices quando a linha de vórtice forma um anel (um vórtice com topologia toroidal) e será comparado o tempo de duração ao se mudar as dimensões do vórtice.</p>
+<p>O objetivo deste experimento é determinar os parâmetros que influenciam a estabilidade de um vórtice toroidal. Para isso, será testada experimentalmente a estabilidade de vórtices quando a linha de vórtice forma um anel (um vórtice com topologia toroidal) e será comparada com o tempo de duração ao se mudar as dimensões do vórtice.</p>
 
 ## Requisitos de Solução
-<p>Serão criados anéis de fumaça com o dispositivo construído e, com uma trena e um cronômetro, serão medidos, a partir de sua formação até sua dissipação, o tempo de duração e a distância retilínea percorrida de cada anel de fumaça. A dimensão do vórtice será extraída do diâmetro da abertura utilizada no dispositivo para cada vórtice. Para minimizar os efeitos de irregularidades no ambiente e diferenças na formação dos vórtices de mesmo diâmetro, serão feitos múltiplos testes e uma análise estatística dos dados. Após a coleta de dados, será determinada a relação entre as grandezas medidas.</p>
+<p>Para que o objetivo do experimento seja realizado, primeiramente é necessária a construção de um equipamento que produza os vórtices. Dessa forma, e por determinação do grupo, tal equipamento usará fumaça como fonte para a produção dos vórtices, sendo eles produzidos e analisados no ar. Os mesmos poderiam ser produzidos na água, mas, por conveniência do grupo, a utilização do ar como meio de propagação dos vórtices torna o experimento mais simples.</p>
+<p>Em relação ao equipamento que será construído, sua principal função será produzir os vórtices com o diâmetro bem definido. Serão analisados vórtices de 10 diâmetros distintos. Assim, a saída do equipamento por onde os vórtices passarão terá uma atenção especial, pois deverá ser variável de acordo com o diâmetro desejado. No entanto, o equipamento não é complexo. Sua estrututa será composta, basicamente, por uma entrada de fumaça, uma câmara para o armazenamento da fumaça e uma saída para os vórtices. A produção dos vórtices será devida a uma força externa que agirá no equipamento, impulsionando a fumaça à saída e nela formando os anéis de fumaça naturalmente.</p>
+<p>Para a coleta de dados do experimento, serão medidos, a partir da formação (saída do equipamento) até a dissipação, o tempo de duração e a distância retilínea percorrida de cada anel de fumaça com um cronômetro e uma trena, respectivamente. E, com o diâmetro previamente estabelecido, essas três informações serão a base para a análise da estabilidade dos vórtices.</p>
+<p>Por fim, para minimizar os efeitos de irregularidades no ambiente e diferenças na formação dos vórtices de mesmo diâmetro, serão feitos múltiplos testes e uma análise estatística dos dados. Após a coleta de dados, será determinada a relação entre as grandezas medidas.</p>
 
 ## Escopo do Experimento
 ### Etapa 1: Produção dos Vórtices
 <p>O objetivo da primeira etapa consiste em produzir o dispositivo necessário para a produção dos vórtices, no caso, um dispositivo para se produzir anéis de fumaça, e estabelecer um local apropriado para que o estudo dos mesmos seja realizado com eficácia.</p>
+
 ### Etapa 2: Avaliação dos Vórtices
 <p>O objetivo da segunda etapa consiste em estabelecer e utilizar os instrumentos de medição necessários (trena e cronômetro) para a coleta dos dados experimentais para determinação da relação entre as dimensões do vórtice, seu tempo de duração, o espaço percorrido e sua velocidade.</p>
 
