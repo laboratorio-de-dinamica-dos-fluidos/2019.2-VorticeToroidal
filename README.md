@@ -50,4 +50,4 @@ Data  | Atividade
 <p>É esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Como o teorema garante a permanência dos vórtices apenas em fluidos ideais, quanto mais as características do ar o afastarem das de um fluido ideal, menos estáveis espera-se que os vórtices sejam, logo, a estabilidade deve diminuir com o aumento da velocidade. Sendo assim, o tempo de duração do vórtice deve ser proporcional ao diâmetro. Por outro lado, o espaço percorrido por cada vórtice pode não apresentar tanta variação, já que os vórtices mais velozes devem se dissipar em menos tempo e os mais lentos demorarem mais para se dissipar.</p>
 
 ## Imagem teste
-<img src="dinaflu.jpg"/>
+<img width="400px" height="400px" src="dinaflu.jpg"/>
