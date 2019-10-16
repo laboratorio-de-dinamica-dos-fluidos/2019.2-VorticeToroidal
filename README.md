@@ -55,3 +55,7 @@ Data  | Atividade
 
 ## Imagem teste
 <img width="400px" height="400px" src="dinaflu.jpg"/>
+<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
+<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
+<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.52.jpeg"/>
+<img width="400px" height="350px" src="WhatsApp Image 2019-10-16 at 12.10.38.jpeg"/>
