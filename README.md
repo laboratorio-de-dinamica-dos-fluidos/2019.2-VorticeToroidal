@@ -16,7 +16,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 <ul> Desenvolver um sistema que possibilite mensurar a estabilidade do vórtex. Para isso é necessário:
   <li> Um dispositivo para criar o vórtex;</li>
 <li>Observar o vórtex nos seguintes pontos: diâmetro, tempo de duração e distância percorrida usando aparatos de medição;</li> 
-<li>Relacionar os resultados em tabelas e gráficos para determinar a relação entre a estabilidade e os parâmetros medidos;</li></p>
+<li>Relacionar os resultados em tabelas e gráficos para determinar a relação entre a estabilidade e os parâmetros medidos;</li></ul></p>
 
 ## Escopo do Experimento
 <p>Para que o objetivo do experimento seja realizado, primeiramente é necessária a construção de um equipamento que produza os vórtices. Dessa forma, e por determinação do grupo, tal equipamento usará fumaça como fonte para a produção dos vórtices, sendo eles produzidos e analisados no ar. Os mesmos poderiam ser produzidos na água, mas, por conveniência do grupo, a utilização do ar como meio de propagação dos vórtices torna o experimento mais simples.</p>
