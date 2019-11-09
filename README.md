@@ -56,7 +56,7 @@ Data  | Atividade
 # Seção 3: Execução
 
 ## Procedimentos Experimentais
-<p>O dispositivo criado para o experimento consiste em um balde com um furo de 17 centímetros de diâmetro no centro de sua base (parte de baixo). A parte de cima foi vedada com um balão de festa e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas Figuras 1 e 2.</p>
+<p>O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). A parte de cima foi vedada com um balão de festa e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas Figuras 1 e 2.</p>
 
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <p>Figura 1: Vista para o furo na base do balde.</p>
@@ -64,7 +64,15 @@ Data  | Atividade
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <p>Figura 2: Vista para o balão na parte de cima do balde.</p>
 
-## Imagem teste
+<p>Em seguida, foram feitos os discos que servirão para produzir os vórtices com os diâmetros desejados, sendo tais discos feitos a partir de caixas de papelão não utilizadas. Eles foram desenhados com um compasso e cortados com tesoura e estilete. O diâmetro maior é comum a todos os discos e tem 200 milímetros, que coincide com o diâmetro da base do balde. Os diâmetros internos variam de 80 até 160 milímetros, totalizando 9 discos. O resultado dessa etapa pode ser visto nas Figuras 3 e 4.</p>
+
+<img width="400px" height="400px" src="Discos juntos.jpeg"/>
+<p>Figura 3: Discos maiores sobre discos menores.</p>
+
+<img width="400px" height="400px" src="Discos separados.jpeg"/>
+<p>Figura 4: Discos em ordem decrescente de diâmetro interno.</p>
+
+## Imagens
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.52.jpeg"/>
