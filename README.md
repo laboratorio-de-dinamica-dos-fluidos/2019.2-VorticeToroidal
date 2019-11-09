@@ -14,7 +14,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 <p>Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vortex diametralmente opostos rotacioam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
 
-![](giphy.gif) Gif 1
+![](gif1_lasersection.gif) Gif 1
 
 ## Requisitos de Solução
 <p>Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao diâmetro. Para isso, é necessário:
@@ -56,15 +56,15 @@ Data  | Atividade
 ## Resultados Esperados 
 <p>Um fenômeno semelhante ao análisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro, como pode ser visto no Gif 2:</p>
   
-![](giphy (3).gif)
+![](gif2_orbita.gif) Gif 2
   
 <p>Porém, quando furacões de hemisférios diferentes estão próximos eles se movem na direção em que o vetor de vórtice aponta entre os dois. Como pode ser visualizado no Gif 3:</p>
 
-![](giphy (2).gif) Gif 3
+![](gif3_reta.gif) Gif 3
   
 <p>Uma secção do vórtice toroidal tem esse mesmo comportamento ao longo de todo o vórtice, como pode ser visualizado no Gif 4:</p>
 
-![](giphy (1).gif) Gif 4
+![](gif4_sentidos.gif) Gif 4
 
 <p>Assim é experado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parametros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais proximos do centro e com magnitude dependente da distância minímia entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
 
