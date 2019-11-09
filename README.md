@@ -69,3 +69,7 @@ Data  | Atividade
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.52.jpeg"/>
 <img width="400px" height="350px" src="WhatsApp Image 2019-10-16 at 12.10.38.jpeg"/>
+<img width="400px" height="400px" src="Máquina de fumaça.jpeg"/>
+<img width="400px" height="400px" src="Discos separados.jpeg"/>
+<img width="400px" height="400px" src="Discos juntos.jpeg"/>
+<img width="400px" height="400px" src="Balde com parafusos.jpeg"/>
