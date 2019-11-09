@@ -12,9 +12,9 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 <p>Se uma linha de vórtex é uma curva tangente em todos os pontos ao vetor do vórtex ω = ∇ × **u** e uma folha de vórtex é uma superfície tangente ao mesmo vetor em todos os pontos, a superfície (ou curva) de vórtex se movendo em um escoamento em um fluído isentrópico continua como uma superfície (ou curva) de vórtex. De acordo com o teorema de Helmholtz se um tubo de vórtex é uma coleção de linhas de vórtex, tal que elas podem se estender umas sobre as outras, então a força do tubo de vórtex é constante. Em outras palavras, vórtices são estáveis. Uma configuração ainda mais estável é quando o eixo central dos tubos de vórtex forma um anel.</p>
 
-<p>Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vortex diametralmente opostos rotacioam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no gif a baixo:</p>
+<p>Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vortex diametralmente opostos rotacioam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
 
-![](giphy.gif)
+![](giphy.gif) Gif 1
 
 ## Requisitos de Solução
 <p>Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao diâmetro. Para isso, é necessário:
@@ -43,7 +43,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 Data  | Atividade
 ----  | ---------
-18/09 | Confecção do dispositivo de anéis de fumaça e definição dos diâmetros dos furos testados
+18/09 | Confecção do dispositivo de anéis de fumaça e definição dos diâmetros dos furos testados 
 19/10 | Confecção das placas 1 a 10 
 23/10 | Teste com os diâmetros 1, 2, 3, 4 e 5
 30/10 | Teste com os diâmetros 6, 7, 8, 9 e 10
@@ -54,7 +54,19 @@ Data  | Atividade
 <p>Utilizando uma máquina de fumaça, o dispositivo será preenchido e, após encaixar a saída com o diâmetro específico, usaremos a membrana para expulsar a fumaça, criando o vórtex e assim medindo as suas dimensões, tempo de duração e espaço percorrido para então fazer a relação entre diâmetro e velocidade. Para cada uma das dez saídas, o experimento será repetido cinco vezes e os dados obtidos serão organizados em uma planilha.</p>
 
 ## Resultados Esperados 
-<p>Um fenômeno semelhante ao análisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro. Porém, quando furacões de hemisférios diferentes estão próximos eles se movem na direção em que o vetor de vórtice aponta entre os dois. Como pode ser visualizado no gif, uma secção do vórtice toroidal tem esse mesmo comportamento ao longo de todo o vórtice, assim é experado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parametros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais proximos do centro e com magnitude dependente da distância minímia entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
+<p>Um fenômeno semelhante ao análisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro, como pode ser visto no Gif 2:</p>
+  
+![](giphy (3).gif)
+  
+<p>Porém, quando furacões de hemisférios diferentes estão próximos eles se movem na direção em que o vetor de vórtice aponta entre os dois. Como pode ser visualizado no Gif 3:</p>
+
+![](giphy (2).gif) Gif 3
+  
+<p>Uma secção do vórtice toroidal tem esse mesmo comportamento ao longo de todo o vórtice, como pode ser visualizado no Gif 4:</p>
+
+![](giphy (1).gif) Gif 4
+
+<p>Assim é experado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parametros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais proximos do centro e com magnitude dependente da distância minímia entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
 
 # Seção 3: Execução
 
