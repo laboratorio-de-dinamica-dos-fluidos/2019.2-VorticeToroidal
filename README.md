@@ -56,7 +56,7 @@ Data  | Atividade
 # Seção 3: Execução
 
 ## Procedimentos Experimentais
-<p>O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). A parte de cima foi vedada com um balão de festa e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas Figuras 1 e 2.</p>
+<p>O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas Figuras 1 e 2.</p>
 
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <p>Figura 1: Vista para o furo na base do balde.</p>
