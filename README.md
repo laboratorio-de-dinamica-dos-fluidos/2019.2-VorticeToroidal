@@ -64,13 +64,18 @@ Data  | Atividade
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <p>Figura 2: Vista para o balão na parte de cima do balde.</p>
 
-<p>Em seguida, foram feitos os discos que servirão para produzir os vórtices com os diâmetros desejados, sendo tais discos feitos a partir de caixas de papelão não utilizadas. Eles foram desenhados com um compasso e cortados com tesoura e estilete. O diâmetro maior é comum a todos os discos e tem 200 milímetros, que coincide com o diâmetro da base do balde. Os diâmetros internos variam de 80 até 160 milímetros, totalizando 9 discos. O resultado dessa etapa pode ser visto nas Figuras 3 e 4.</p>
+<p>Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam rasgando o papelão, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o arame e evitar possíveis queimaduras. Depois disso os parafusos foram fixos com chave de fenda.</p>
+
+<img width="400px" height="400px" src="Balde com parafusos.jpeg"/>
+<p>Figura 3: Base do balde com parafusos fixados.</p>
+
+<p>Por fim, foram feitos os discos que servirão para produzir os vórtices com os diâmetros desejados, sendo tais discos feitos a partir de caixas de papelão não utilizadas. Eles foram desenhados com um compasso e cortados com tesoura e estilete. O diâmetro maior é comum a todos os discos e tem 200 milímetros, que coincide com o diâmetro da base do balde. Os diâmetros internos variam de 80 até 160 milímetros, totalizando 9 discos. Depois disso foram feitos pequenos furos para serem fixados nos parafusos. O resultado dessa etapa pode ser visto nas Figuras 4 e 5.</p>
 
 <img width="400px" height="400px" src="Discos juntos.jpeg"/>
-<p>Figura 3: Discos maiores sobre discos menores.</p>
+<p>Figura 4: Discos maiores sobre discos menores.</p>
 
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
-<p>Figura 4: Discos em ordem decrescente de diâmetro interno.</p>
+<p>Figura 5: Discos em ordem decrescente de diâmetro interno.</p>
 
 ## Imagens
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
