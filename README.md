@@ -54,7 +54,7 @@ Data  | Atividade
 <p>Utilizando uma máquina de fumaça, o dispositivo será preenchido e, após encaixar a saída com o diâmetro específico, usaremos a membrana para expulsar a fumaça, criando o vórtex e assim medindo as suas dimensões, tempo de duração e espaço percorrido para então fazer a relação entre diâmetro e velocidade. Para cada uma das dez saídas, o experimento será repetido cinco vezes e os dados obtidos serão organizados em uma planilha.</p>
 
 ## Resultados Esperados 
-<p>Um fenômeno semelhante ao análisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro, como pode ser visto no Gif 2:</p>
+<p>Um fenômeno semelhante ao analisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro, como pode ser visto no Gif 2:</p>
   
 ![](gif2_orbita.gif) Gif 2
   
