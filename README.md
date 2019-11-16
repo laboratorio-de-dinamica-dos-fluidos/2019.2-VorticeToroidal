@@ -34,7 +34,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 # Seção 2: Planejamento e Preparação
 
 ## Procedimentos Experimentais e Preparação
-<p>Para a execução dos testes quanto à velocidade do vórtex toroidal, todos os membros se reunirão na FGA no horário de laboratório para a execução das atividades de acordo com o cronograma mostrado. O procedimento utilizado, uma vez que o dispositivo de criação dos anéis de fumaça estiver operacional, consiste em produzir, para cada diâmetro especificado, cinco anéis de fumaça, cronometrando sua duração para o delocamento especificado, registrando as medidas em uma tabela e documentando o processo com fotos.</p>
+<p>Para a execução dos testes quanto à velocidade do vórtex toroidal, todos os membros se reunirão na FGA no horário de laboratório para a execução das atividades de acordo com o cronograma mostrado. O procedimento utilizado, uma vez que o dispositivo de criação dos anéis de fumaça estiver operacional, consiste em produzir, para cada diâmetro especificado, cinco anéis de fumaça, cronometrando sua duração para o deslocamento especificado, registrando as medidas em uma tabela e documentando o processo com fotos.</p>
 
 <p> Para realizar o experimento, serão feitos anéis de fumaça com o dispositivo feito e com o auxílio da máquina de fumaça. As grandezas de interesse serão medidas com um cronômetro e uma trena. Com o tempo e o espaço percorrido, será calculada a velocidade média.</p>
 
