@@ -66,7 +66,7 @@ Data  | Atividade
 
 ![](gif4_sentidos.gif) Gif 4
 
-<p>Assim é experado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parametros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais proximos do centro e com magnitude dependente da distância minímia entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
+<p>Assim é esperado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parâmetros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais próximos do centro e com magnitude dependente da distância mínima entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
 
 # Seção 3: Execução
 
