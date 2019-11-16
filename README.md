@@ -92,7 +92,24 @@ Data  | Atividade
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
 <p>Figura 5: Discos em ordem decrescente de diâmetro interno.</p>
 
+## Dados Medidos
+<p>O experimento necessitou de alguns pontos que tendia a um grande erro experimental, tais quais como força aplicada na membrana para expulsar a fumaça, os momentos corretos a serem cronometrados em que o vórtice seria formado até o momento que ele passaria pelo limite que definimos, além do ambiente não se manter constante devido ao ambiente se encher de fumaça à medida que o experimento se prolongasse. Devido a isso, diversos testes foram feitos afim de se encontrar um valor médio e valores constantes o suficiente para compensar os erros envolvidos. Com isso foram definidos 5 valores para o tempo que o vórtice percorria o trajeto, com isso era encontrado um valor médio para o tempo e nisso, utilizando o tamanho do percurso de 5 metros e o tempo médio, achamos a velocidade média. Para entender melhor como foi a variação dos tempos encontrados, também foi calculado o desvio padrão de cada diâmetro. Todos esses dados se encontram na tabela abaixo:</p>
+
+| Diâmetro(m) | Teste 1(s) | Teste 2(s) | Teste 3(s) | Teste 4(s) | Teste 5(s) | Tempo Médio(s) | Velocidade(m/s) | Desvio Padrão(s) |
+|-------------|------------|------------|------------|------------|------------|----------------|-----------------|------------------|
+| 0,08        | 1,54       | 1,49       | 1,49       | 1,43       | 1,47       | 1,484          | 3,369272        | 0,039749         |
+| 0,09        | 1,8        | 1,81       | 1,72       | 1,74       | 1,7        | 1,754          | 2,850627        | 0,048785         |
+| 0,10        | 2,03       | 2,12       | 2,04       | 1,99       | 2,14       | 2,064          | 2,422481        | 0,063482         |
+| 0,11        | 2,58       | 2,66       | 2,59       | 2,55       | 2,53       | 2,582          | 1,936483        | 0,049699         |
+| 0,12        | 2,86       | 2,73       | 2,77       | 2,79       | 2,86       | 2,802          | 1,784444        | 0,057184         |
+| 0,13        | 3,09       | 3,12       | 3,27       | 3,22       | 3,28       | 3,196          | 1,564456        | 0,086776         |
+| 0,14        | 3,42       | 3,49       | 3,48       | 3,57       | 3,67       | 3,526          | 1,418037        | 0,096592         |
+| 0,15        | 3,78       | 3,78       | 3,78       | 3,77       | 3,73       | 3,768          | 1,326964        | 0,021679         |
+| 0,16        | 3,81       | 3,82       | 3,84       | 3,95       | 3,7        | 3,824          | 1,307531        | 0,089051         |
+| 0,17        | 4,37       | 4,34       | 4,4        | 4,4        | 4,3        | 4,362          | 1,146263        | 0,042661         |
+
 ## Imagens
+
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.52.jpeg"/>
