@@ -118,3 +118,6 @@ Data  | Atividade
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
 <img width="400px" height="400px" src="Discos juntos.jpeg"/>
 <img width="400px" height="400px" src="Balde com parafusos.jpeg"/>
+<img width="400px" height="400px" src="Balde e disco.jpeg"/>
+<img width="400px" height="400px" src="Limitador para o balão.jpeg"/>
+<img width="400px" height="400px" src="Balão limitado.jpeg"/>
