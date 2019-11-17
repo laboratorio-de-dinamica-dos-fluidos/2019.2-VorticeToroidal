@@ -108,6 +108,9 @@ Data  | Atividade
 | 0,16        | 3,81       | 3,82       | 3,84       | 3,95       | 3,7        | 3,824          | 1,307531        | 0,089051         |
 | 0,17        | 4,37       | 4,34       | 4,4        | 4,4        | 4,3        | 4,362          | 1,146263        | 0,042661         |
 
+# Seção 4: Análise e Conclusão
+
+## Resultados
 <p align="justify">Para visualização gráfica e calculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão expenencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
 
 <img width="300px" height="200px" src="image.png"/> 
