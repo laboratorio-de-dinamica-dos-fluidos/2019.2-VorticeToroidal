@@ -136,6 +136,8 @@ Data  | Atividade
 
 <p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levand em consideração a quantia limitada de diâmetro que podem ser testados devid as dificuldades do experimento, porem, ao se observar novamente o gráfico 7, é esperadp que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
 
+<p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situacão, a relação v = a/(d^v) é, porem os valores de a e b são particulares as condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores, esses valores podem, e devem, ser diferentes.</p>
+
 ## Imagens
 
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
