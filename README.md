@@ -93,7 +93,7 @@ Data  | Atividade
 <p>Figura 5: Discos em ordem decrescente de diâmetro interno.</p>
 
 ## Dados Medidos
-<p align="justify">O experimento necessitou de alguns pontos que tendia a um grande erro experimental, tais quais como força aplicada na membrana para expulsar a fumaça, os momentos corretos a serem cronometrados em que o vórtice seria formado até o momento que ele passaria pelo limite que definimos, além do ambiente não se manter constante devido ao ambiente se encher de fumaça à medida que o experimento se prolongasse. Devido a isso, diversos testes foram feitos afim de se encontrar um valor médio e valores constantes o suficiente para compensar os erros envolvidos. Com isso foram definidos 5 valores para o tempo que o vórtice percorria o trajeto, com isso era encontrado um valor médio para o tempo e nisso, utilizando o tamanho do percurso de 5 metros e o tempo médio, achamos a velocidade média. Para entender melhor como foi a variação dos tempos encontrados, também foi calculado o desvio padrão de cada diâmetro. Todos esses dados se encontram na tabela abaixo:</p>
+<p align="justify">O experimento foi sujeito a um grande erro experimental, devido a fatores tais como a força aplicada na membrana para expulsar a fumaça, os momentos corretos a serem cronometrados em que o vórtice seria formado até o momento que ele passaria pelo limite que definimos, além do ambiente não se manter constante devido ao ambiente se encher de fumaça à medida que o experimento se prolongasse, o que causou aparende diminuição da velocidade dos vórtices. Devido a essa metodologia não é possível calcular o erro experimental associado as medições feitas, por isso o parâmetro utilizado para visualização dos desvios é o desvio padrão nos tempos medidos. Sendo assim, diversos testes foram feitos afim de se encontrar um valor médio e valores constantes o suficiente para compensar os erros envolvidos. Com isso foram definidos 5 valores para o tempo que o vórtice percorria o trajeto, com isso era encontrado um valor médio para o tempo e nisso, utilizando o tamanho do percurso de 5 metros e o tempo médio, achamos a velocidade média. Para entender melhor como foi a variação dos tempos encontrados, também foi calculado o desvio padrão de cada diâmetro. Todos esses dados se encontram na tabela abaixo:</p>
 
 | Diâmetro(m) | Teste 1(s) | Teste 2(s) | Teste 3(s) | Teste 4(s) | Teste 5(s) | Tempo Médio(s) | Velocidade(m/s) | Desvio Padrão(s) |
 |-------------|------------|------------|------------|------------|------------|----------------|-----------------|------------------|
@@ -107,6 +107,34 @@ Data  | Atividade
 | 0,15        | 3,78       | 3,78       | 3,78       | 3,77       | 3,73       | 3,768          | 1,326964        | 0,021679         |
 | 0,16        | 3,81       | 3,82       | 3,84       | 3,95       | 3,7        | 3,824          | 1,307531        | 0,089051         |
 | 0,17        | 4,37       | 4,34       | 4,4        | 4,4        | 4,3        | 4,362          | 1,146263        | 0,042661         |
+
+<p align="justify">Para visualização gráfica e calculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão expenencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
+
+<img width="300px" height="200px" src="image.png"/> 
+<p>Gráfico 1.1: Dados de velocidade vs diâmetro com regressão exponencial pelo excel.</p>
+
+<img width="400px" height="300px" src="vxd_e.jpg"/> 
+<p>Gráfico 1.2: Dados de velocidade vs diâmetro com regressão exponencial pelo MATLAB.</p>
+
+<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcioal, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 7</p>
+  
+<img width="300px" height="200px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/>  
+<p>Gráfico 7: Linearização dos dados com log X log.</p>
+
+<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relaçao v = 1/(11,1686325d^1,483), com o gráfico 8 para comparação, obtido a partir do MATLAB:</p>
+
+<img width="400px" height="300px" src="vxd.jpg"/>
+<p>Gráfico 8: Comparação dos dados da tabela com a relação inversamente proporcional obtida.</p>
+
+<p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado no gráfico 9.1 e no 9.2 para comparação com as regressões utilizadas:</p>
+
+<img width="400px" height="300px" src="vxderrzoom.jpg"/>
+<p>Gráfico 9.1: Comparação dos dados da tabela com a relação inversamente proporcional  com adição do desvio padrão.</p>
+
+<img width="400px" height="300px" src="vxd_ezoom.jpg"/>
+<p>Gráfico 9.2: Comparação dos dados da tabela com a relação exponencial  com adição do desvio padrão.</p>
+
+<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levand em consideração a quantia limitada de diâmetro que podem ser testados devid as dificuldades do experimento, porem, ao se observar novamente o gráfico 7, é esperadp que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
 
 ## Imagens
 
