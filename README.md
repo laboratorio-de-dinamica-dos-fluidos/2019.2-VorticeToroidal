@@ -161,7 +161,7 @@ Quadro 2: Função de cada integrante para a realização dos testes.
 # Seção 4: Análise e Conclusão
 
 ## Resultados
-<p align="justify">Para visualização gráfica e calculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão expenencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
+<p align="justify">Para visualização gráfica e cálculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão exponencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
 
 <img width="300px" height="200px" src="image.png"/> 
 <p>Gráfico 1.1: Dados de velocidade vs diâmetro com regressão exponencial pelo excel.</p>
@@ -169,12 +169,12 @@ Quadro 2: Função de cada integrante para a realização dos testes.
 <img width="400px" height="300px" src="vxd_e.jpg"/> 
 <p>Gráfico 1.2: Dados de velocidade vs diâmetro com regressão exponencial pelo MATLAB.</p>
 
-<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcioal, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 7</p>
+<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcional, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 7</p>
   
 <img width="300px" height="200px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/>  
 <p>Gráfico 7: Linearização dos dados com log X log.</p>
 
-<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relaçao v = 1/(11,1686325d^1,483), com o gráfico 8 para comparação, obtido a partir do MATLAB:</p>
+<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relação v = 1/(11,1686325d^1,483), com o gráfico 8 para comparação, obtido a partir do MATLAB:</p>
 
 <img width="400px" height="300px" src="vxd.jpg"/>
 <p>Gráfico 8: Comparação dos dados da tabela com a relação inversamente proporcional obtida.</p>
@@ -182,14 +182,14 @@ Quadro 2: Função de cada integrante para a realização dos testes.
 <p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado no gráfico 9.1 e no 9.2 para comparação com as regressões utilizadas:</p>
 
 <img width="400px" height="300px" src="vxderrzoom.jpg"/>
-<p>Gráfico 9.1: Comparação dos dados da tabela com a relação inversamente proporcional  com adição do desvio padrão.</p>
+<p>Gráfico 9.1: Comparação dos dados da tabela com a relação inversamente proporcional com adição do desvio padrão.</p>
 
 <img width="400px" height="300px" src="vxd_ezoom.jpg"/>
 <p>Gráfico 9.2: Comparação dos dados da tabela com a relação exponencial  com adição do desvio padrão.</p>
 
-<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levand em consideração a quantia limitada de diâmetro que podem ser testados devid as dificuldades do experimento, porem, ao se observar novamente o gráfico 7, é esperadp que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
+<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levando em consideração a quantia limitada de diâmetros que puderam ser testados devido as dificuldades do experimento, porém, ao se observar novamente o gráfico 7, é esperado que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
 
-<p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situacão, a relação v = a/(d^v) é, porem os valores de a e b são particulares as condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores, esses valores podem, e devem, ser diferentes.</p>
+<p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situação, a relação v = a/(d^v) é, porém os valores de a e b são particulares as condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores, esses valores podem, e devem, ser diferentes.</p>
 
 ## Imagens
 
