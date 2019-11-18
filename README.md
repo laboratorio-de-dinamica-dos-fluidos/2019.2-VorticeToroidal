@@ -73,7 +73,7 @@ Data  | Atividade
 ## Procedimentos Experimentais
 
 ### Construção do Dispositivo 
-<p align="justify">O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas figuras 1 e 2.</p>
+<p align="justify">O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base. O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas figuras 1 e 2.</p>
 
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <p>Figura 1: Vista para o furo na base do balde.</p>
@@ -94,13 +94,18 @@ Data  | Atividade
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
 <p>Figura 5: Discos em ordem decrescente de diâmetro interno.</p>
 
-<p align="justify">Por fim, visando um possível problema com a diferença de intensidade da força aplicada no balão em cada teste, ocasionando um grave erro experimental quanto à velocidade de saída do vórtice do dispositivo, foi feito um limitador para o balão, como mostram as figuras 6 e 7, para que em todos os testes o balão fosse esticado da mesma forma. O limitador foi feito com barbante e com uma pequena bola de gude. Foram feitos 4 furos equidistantes no balde da mesma forma que foram feitos os furos para os parafusos. Em cada furo foi passado um pedaço de barbante e um nó foi feito na ponta de cada um na parte de dentro do balde para não saírem do furo. Logo após, a bola de gude foi colocada no centro do balão e os quatro pedaços de barbante foram amarrados em volta da bola de gude. O tamanho dos pedaços de barbante foi o mínimo necessário para que o balão fosse esticado o suficiente para produzir todos os vórtices estáveis e que percorressem uma distância mínima de 5 metros.</p>
+<p align="justify">Para que os discos fiquem realmente fixos no balde, após encaixados nos parafusos, foi utilizada uma porca em cada parafuso, como mostra a Figura 6.</p>
+
+<img width="400px" height="400px" src="Balde e disco.jpeg"/>
+<p>Figura 6: Discos fixos no balde com parafusos e porcas.</p>
+  
+<p align="justify">Por fim, visando um possível problema com a diferença de intensidade da força aplicada no balão em cada teste, ocasionando um grave erro experimental quanto à velocidade de saída do vórtice do dispositivo, foi feito um limitador para o balão, como mostram as figuras 7 e 8, para que em todos os testes o balão fosse esticado da mesma forma. O limitador foi feito com barbante e com uma pequena bola de gude. Foram feitos 4 furos equidistantes no balde da mesma forma que foram feitos os furos para os parafusos. Em cada furo foi passado um pedaço de barbante e um nó foi feito na ponta de cada um na parte de dentro do balde para não saírem do furo. Logo após, a bola de gude foi colocada no centro do balão e os quatro pedaços de barbante foram amarrados em volta da bola de gude. O tamanho dos pedaços de barbante foi o mínimo necessário para que o balão fosse esticado o suficiente para produzir todos os vórtices estáveis e que percorressem uma distância mínima de 5 metros.</p>
 
 <img width="400px" height="400px" src="Limitador para o balão.jpeg"/>
-<p>Figura 6: Limitador para o balão.</p>
+<p>Figura 7: Limitador para o balão.</p>
 
 <img width="400px" height="400px" src="Balão limitado.jpeg"/>
-<p>Figura 7: Balão limitado.</p>
+<p>Figura 8: Balão limitado.</p>
 
 ### Realização dos testes
 
