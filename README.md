@@ -124,6 +124,23 @@ Data  | Atividade
 </p>
 
 ### Realização dos testes
+<p align="justify">Para a realização dos testes, uma máquina de fumaça foi utilizada (Figura 9). O local definido foi um espaço fechado na casa de um dos integrantes do grupo, pois não foi possível realizar os testes na FGA por conta da fumaça. Por limitações quanto ao tamanho do espaço disponível para a realização dos testes, o grupo limitou em 5 metros a distância percorrida pelos vórtices, então, foram cronometrados os tempos em que cada vórtice percorria nessa distância. Com uma trena, a distância foi marcada no ambiente. O tempo foi cronometrado a partir do momento em que o vórtice saía do balde até o momento em que cruzava a marcação dos 5 metros. Para tal, cada um dos três membros do grupo tiveram funções essenciais, mostradas no Quadro 2.</p>
+
+<p align="center">
+  <img width="400px" height="400px" src="Máquina de fumaça.jpeg"/> <br />
+  Figura 9: Máquina de fumaça.
+</p>
+
+|Integrante|Função|
+|----------|------|
+|Álef      |Segurar firme e mirar o balde reto à marcação dos 5 metros|
+|Bruno     |Esticar o balão sempre com a mesma força|
+|Felipe    |Cronometrar o tempo|
+
+Quadro 2: Função de cada integrante para a realização dos testes.
+
+<p align="justify">Como os três membros tiveram participação direta na execução dos testes, qualquer erro individual poderia ocasionar erros experimentais. Portanto, a comunicação foi muito importante, haja vista que os três integrantes deveriam estar bem alinhados uns com os outros. Assim, as primeiras execuções do experimento serviram para "calibrar" a sincronia entre os integrantes. Para cada execução, o Bruno fazia uma contagem regressiva para que o Felipe preparasse o disparar do cronometro. Depois de várias tentativas, ambos antigiram uma sincronia bastante satisfatória, então, os dados começaram a ser medidos. Após cada teste, a fumaça do balde era reposta pelo Álef.</p>
+<p align="justify">O grupo teve a preocupação em executar os testes da forma mais homogênea possível. Dessa forma, até a posição em que o Álef segurava o balde se manteve constante, assim como a orientação do balde. Foi utilizado um pedaço de fita isolante na lateral do balde para a orientação, assim, em todos os testes, essa fita isolante esteve apontada para cima. E, por fim, após uma série de testes, a fumaça era evacuada do ambiente para manter os testes sob as mesmas condições até mesmo em relação à quantidade de fumaça no ambiente.</p>
 
 ## Dados Medidos
 <p align="justify">O experimento foi sujeito a um grande erro experimental, devido a fatores tais como a força aplicada na membrana para expulsar a fumaça, os momentos corretos a serem cronometrados em que o vórtice seria formado até o momento que ele passaria pelo limite que definimos, além do ambiente não se manter constante devido ao ambiente se encher de fumaça à medida que o experimento se prolongasse, o que causou aparende diminuição da velocidade dos vórtices. Devido a essa metodologia não é possível calcular o erro experimental associado as medições feitas, por isso o parâmetro utilizado para visualização dos desvios é o desvio padrão nos tempos medidos. Sendo assim, diversos testes foram feitos afim de se encontrar um valor médio e valores constantes o suficiente para compensar os erros envolvidos. Com isso foram definidos 5 valores para o tempo que o vórtice percorria o trajeto, com isso era encontrado um valor médio para o tempo e nisso, utilizando o tamanho do percurso de 5 metros e o tempo médio, achamos a velocidade média. Para entender melhor como foi a variação dos tempos encontrados, também foi calculado o desvio padrão de cada diâmetro. Todos esses dados se encontram na tabela abaixo:</p>
