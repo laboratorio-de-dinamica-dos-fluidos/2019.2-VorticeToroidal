@@ -12,7 +12,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 <p align="justify">Se uma linha de vórtex é uma curva tangente em todos os pontos ao vetor do vórtex ω = ∇ × **u** e uma folha de vórtex é uma superfície tangente ao mesmo vetor em todos os pontos, a superfície (ou curva) de vórtex se movendo em um escoamento em um fluído isentrópico continua como uma superfície (ou curva) de vórtex. De acordo com o teorema de Helmholtz se um tubo de vórtex é uma coleção de linhas de vórtex, tal que elas podem se estender umas sobre as outras, então a força do tubo de vórtex é constante. Em outras palavras, vórtices são estáveis. Uma configuração ainda mais estável é quando o eixo central dos tubos de vórtex forma um anel.</p>
 
-<p align="justify">Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vortex diametralmente opostos rotacioam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
+<p align="justify">Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vórtex diametralmente opostos rotacinam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
 
 ![](gif1_lasersection.gif) Gif 1
 
