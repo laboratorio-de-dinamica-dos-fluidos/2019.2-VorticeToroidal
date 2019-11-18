@@ -19,7 +19,7 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 ## Requisitos de Solução
 <p align="justify">Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao diâmetro. Para isso, é necessário:
 <ul><li> Um dispositivo para criar o vórtex;</li>
-<li>Observar o vórtex nos seguintes pontos: diâmetro, tempo de duração e distância percorrida usando aparatos de medição;</li> 
+<li>Observar o vórtex nos seguintes pontos: diâmetro de saída do dispositivo, tempo de duração e distância percorrida usando aparatos de medição;</li> 
 <li>Relacionar os resultados em tabelas e gráficos para determinar a relação entre a velocidade e o diâmetro.</li></ul></p>
 
 ## Escopo do Experimento
