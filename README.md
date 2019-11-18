@@ -124,7 +124,7 @@ Data  | Atividade
 </p>
 
 ### Realização dos testes
-<p align="justify">Para a realização dos testes, uma máquina de fumaça foi utilizada (Figura 9). O local definido foi um espaço fechado na casa de um dos integrantes do grupo, pois não foi possível realizar os testes na FGA por conta da fumaça. Por limitações quanto ao tamanho do espaço disponível para a realização dos testes, o grupo limitou em 5 metros a distância percorrida pelos vórtices, então, foram cronometrados os tempos em que cada vórtice percorria nessa distância. Com uma trena, a distância foi marcada no ambiente. O tempo foi cronometrado a partir do momento em que o vórtice saía do balde até o momento em que cruzava a marcação dos 5 metros. Para tal, cada um dos três membros do grupo tiveram funções essenciais, mostradas no Quadro 2.</p>
+<p align="justify">Para a realização dos testes, uma máquina de fumaça foi utilizada (Figura 9). O local definido foi um espaço fechado na casa de um dos integrantes do grupo, pois não foi possível realizar os testes na FGA por conta da fumaça. Por limitações quanto ao tamanho do espaço disponível para a realização dos testes, o grupo limitou em 5 metros a distância percorrida pelos vórtices, então, foram cronometrados os tempos em que cada vórtice percorria nessa distância. Com uma trena, a distância foi marcada no ambiente. O tempo foi cronometrado a partir do momento em que o vórtice saía do balde até o momento em que cruzava a marcação dos 5 metros. Para tal, cada um dos três membros do grupo teve funções essenciais, mostradas no Quadro 2.</p>
 
 <p align="center">
   <img width="400px" height="400px" src="Máquina de fumaça.jpeg"/> <br />
