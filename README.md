@@ -75,10 +75,10 @@ Data  | Atividade
 ### Construção do Dispositivo 
 <p align="justify">O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base. O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas figuras 1 e 2.</p>
 
-<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
+<img width="400px" height="400px" src="Balde com furo.jpeg"/>
 <p>Figura 1: Vista para o furo na base do balde.</p>
 
-<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
+<img width="400px" height="400px" src="Balde e balão.jpeg"/>
 <p>Figura 2: Vista para o balão na parte de cima do balde.</p>
 
 <p align="justify">Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam rasgando o papelão, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o arame e evitar possíveis queimaduras. Depois disso, os parafusos foram fixos com chave de fenda.</p>
@@ -161,12 +161,6 @@ Data  | Atividade
 ## Imagens
 
 <img width="400px" height="400px" src="Máquina de fumaça.jpeg"/>
-<img width="400px" height="400px" src="Discos separados.jpeg"/>
-<img width="400px" height="400px" src="Discos juntos.jpeg"/>
-<img width="400px" height="400px" src="Balde com parafusos.jpeg"/>
-<img width="400px" height="400px" src="Balde e disco.jpeg"/>
-<img width="400px" height="400px" src="Limitador para o balão.jpeg"/>
-<img width="400px" height="400px" src="Balão limitado.jpeg"/>
 <img width="400px" height="700px"src="Produção de vórtice_vista 1.gif"/>
 <img width="400px" height="700px"src="Produção de vórtice_vista 2.gif"/>
 <img width="400px" height="700px"src="Produção de vórtice_vista 3.gif"/>
