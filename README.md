@@ -155,10 +155,6 @@ Data  | Atividade
 
 ## Imagens
 
-<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
-<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
-<img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.52.jpeg"/>
-<img width="400px" height="350px" src="WhatsApp Image 2019-10-16 at 12.10.38.jpeg"/>
 <img width="400px" height="400px" src="Máquina de fumaça.jpeg"/>
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
 <img width="400px" height="400px" src="Discos juntos.jpeg"/>
@@ -166,3 +162,6 @@ Data  | Atividade
 <img width="400px" height="400px" src="Balde e disco.jpeg"/>
 <img width="400px" height="400px" src="Limitador para o balão.jpeg"/>
 <img width="400px" height="400px" src="Balão limitado.jpeg"/>
+<img width="400px" height="700px"src="Produção de vórtice_vista 1.gif"/>
+<img width="400px" height="700px"src="Produção de vórtice_vista 2.gif"/>
+<img width="400px" height="700px"src="Produção de vórtice_vista 3.gif"/>
