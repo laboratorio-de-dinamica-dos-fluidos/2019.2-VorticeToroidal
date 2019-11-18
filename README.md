@@ -71,7 +71,9 @@ Data  | Atividade
 # Seção 3: Execução
 
 ## Procedimentos Experimentais
-<p align="justify">O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas Figuras 1 e 2.</p>
+
+### Construção do Dispositivo 
+<p align="justify">O dispositivo criado para o experimento consiste em um balde com um furo de 170 milímetros de diâmetro no centro de sua base (parte de baixo). O furo foi desenhado com um compasso e cortado com um estilete. A parte de cima foi vedada com um balão de festa grande e o balão foi fixado no balde com uma camada reforçada de fita isolante. O resultado dessa etapa pode ser visto nas figuras 1 e 2.</p>
 
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.49.jpeg"/>
 <p>Figura 1: Vista para o furo na base do balde.</p>
@@ -79,18 +81,28 @@ Data  | Atividade
 <img width="400px" height="400px" src="WhatsApp Image 2019-10-16 at 11.56.51.jpeg"/>
 <p>Figura 2: Vista para o balão na parte de cima do balde.</p>
 
-<p align="justify">Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam rasgando o papelão, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o arame e evitar possíveis queimaduras. Depois disso os parafusos foram fixos com chave de fenda.</p>
+<p align="justify">Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam rasgando o papelão, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o arame e evitar possíveis queimaduras. Depois disso, os parafusos foram fixos com chave de fenda.</p>
 
 <img width="400px" height="400px" src="Balde com parafusos.jpeg"/>
 <p>Figura 3: Base do balde com parafusos fixados.</p>
 
-<p align="justify">Por fim, foram feitos os discos que servirão para produzir os vórtices com os diâmetros desejados, sendo tais discos feitos a partir de caixas de papelão não utilizadas. Eles foram desenhados com um compasso e cortados com tesoura e estilete. O diâmetro maior é comum a todos os discos e tem 200 milímetros, que coincide com o diâmetro da base do balde. Os diâmetros internos variam de 80 até 160 milímetros, totalizando 9 discos. Depois disso foram feitos pequenos furos para serem fixados nos parafusos. O resultado dessa etapa pode ser visto nas Figuras 4 e 5.</p>
+<p align="justify">Em seguida, foram feitos os discos que servirão para produzir os vórtices com os diâmetros desejados, sendo tais discos feitos a partir de caixas de papelão não utilizadas. Eles foram desenhados com um compasso e cortados com tesoura e estilete. O diâmetro maior é comum a todos os discos e tem 200 milímetros, que coincide com o diâmetro da base do balde. Os diâmetros internos variam de 80 até 160 milímetros, totalizando 9 discos. Depois disso, foram feitos pequenos furos para serem fixados nos parafusos. O resultado dessa etapa pode ser visto nas figuras 4 e 5.</p>
 
 <img width="400px" height="400px" src="Discos juntos.jpeg"/>
 <p>Figura 4: Discos maiores sobre discos menores.</p>
 
 <img width="400px" height="400px" src="Discos separados.jpeg"/>
 <p>Figura 5: Discos em ordem decrescente de diâmetro interno.</p>
+
+<p align="justify">Por fim, visando um possível problema com a diferença de intensidade da força aplicada no balão em cada teste, ocasionando um grave erro experimental quanto à velocidade de saída do vórtice do dispositivo, foi feito um limitador para o balão, como mostram as figuras 6 e 7, para que em todos os testes o balão fosse esticado da mesma forma. O limitador foi feito com barbante e com uma pequena bola de gude. Foram feitos 4 furos equidistantes no balde da mesma forma que foram feitos os furos para os parafusos. Em cada furo foi passado um pedaço de barbante e um nó foi feito na ponta de cada um na parte de dentro do balde para não saírem do furo. Logo após, a bola de gude foi colocada no centro do balão e os quatro pedaços de barbante foram amarrados em volta da bola de gude. O tamanho dos pedaços de barbante foi o mínimo necessário para que o balão fosse esticado o suficiente para produzir todos os vórtices estáveis e que percorressem uma distância mínima de 5 metros.</p>
+
+<img width="400px" height="400px" src="Limitador para o balão.jpeg"/>
+<p>Figura 6: Limitador para o balão.</p>
+
+<img width="400px" height="400px" src="Balão limitado.jpeg"/>
+<p>Figura 7: Balão limitado.</p>
+
+### Realização dos testes
 
 ## Dados Medidos
 <p align="justify">O experimento foi sujeito a um grande erro experimental, devido a fatores tais como a força aplicada na membrana para expulsar a fumaça, os momentos corretos a serem cronometrados em que o vórtice seria formado até o momento que ele passaria pelo limite que definimos, além do ambiente não se manter constante devido ao ambiente se encher de fumaça à medida que o experimento se prolongasse, o que causou aparende diminuição da velocidade dos vórtices. Devido a essa metodologia não é possível calcular o erro experimental associado as medições feitas, por isso o parâmetro utilizado para visualização dos desvios é o desvio padrão nos tempos medidos. Sendo assim, diversos testes foram feitos afim de se encontrar um valor médio e valores constantes o suficiente para compensar os erros envolvidos. Com isso foram definidos 5 valores para o tempo que o vórtice percorria o trajeto, com isso era encontrado um valor médio para o tempo e nisso, utilizando o tamanho do percurso de 5 metros e o tempo médio, achamos a velocidade média. Para entender melhor como foi a variação dos tempos encontrados, também foi calculado o desvio padrão de cada diâmetro. Todos esses dados se encontram na tabela abaixo:</p>
