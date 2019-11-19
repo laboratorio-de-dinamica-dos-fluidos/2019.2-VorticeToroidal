@@ -85,7 +85,7 @@ Data  | Atividade
   Figura 2: Vista para o balão na parte de cima do balde.
 </p>
 
-<p align="justify">Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam rasgando o papelão, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o arame e evitar possíveis queimaduras. Depois disso, os parafusos foram fixos com chave de fenda.</p>
+<p align="justify">Em seguida, foram feitos furos na base do balde para prender parafusos que servirão de encaixe para os discos responsáveis pela formação dos vórtices de diâmetros distintos. Nota-se que, na Figura 3, são 4 pares de furos igualmente espaçados, mas apenas metade deles foram aproveitados com os parafusos. Isso se deve ao fato de que a ideia inicial era utilizar arame para prender os discos, mas os testes realizados mostraram que eles não são práticos e estavam danificando os discos, então o arame foi substituído por parafuso. A utilização de apenas 4 parafusos é suficiente para prender bem os discos no balde. Os furos foram feitos esquentando a ponta de um pequeno pedaço de arame com isqueiro e rapidamente pressionando-o no balde. As posições dos furos foram previamente marcadas e foi utilizado um alicate para segurar o pedaço de arame e evitar possíveis queimaduras. Depois disso, os parafusos foram fixos com chave de fenda.</p>
 
 <p align="center">
   <img width="400px" height="400px" src="Balde com parafusos.jpeg"/> <br />
@@ -124,7 +124,7 @@ Data  | Atividade
 </p>
 
 ### Realização dos testes
-<p align="justify">Para a realização dos testes, uma máquina de fumaça foi utilizada (Figura 9). O local definido foi um espaço fechado na casa de um dos integrantes do grupo, pois não foi possível realizar os testes na FGA por conta da fumaça. Por limitações quanto ao tamanho do espaço disponível para a realização dos testes, o grupo limitou em 5 metros a distância percorrida pelos vórtices, então, foram cronometrados os tempos em que cada vórtice percorria nessa distância. Com uma trena, a distância foi marcada no ambiente. O tempo foi cronometrado a partir do momento em que o vórtice saía do balde até o momento em que cruzava a marcação dos 5 metros. Para tal, cada um dos três membros do grupo teve funções essenciais, mostradas no Quadro 2.</p>
+<p align="justify">Para a realização dos testes, uma máquina de fumaça foi utilizada (Figura 9). O local definido foi um espaço fechado na casa de um dos integrantes do grupo, pois não foi possível realizar os testes na FGA por conta da fumaça. Por limitações quanto ao tamanho do espaço disponível para a realização dos testes, o grupo limitou em 5 metros a distância percorrida pelos vórtices, então, foi cronometrado o tempo que cada vórtice percorria nessa distância. Com uma trena, a distância foi marcada no ambiente. O tempo foi cronometrado a partir do momento em que o vórtice saía do balde até o momento em que cruzava a marcação dos 5 metros. Para tal, cada um dos três membros do grupo teve funções essenciais, mostradas no Quadro 2.</p>
 
 <p align="center">
   <img width="400px" height="400px" src="Máquina de fumaça.jpeg"/> <br />
@@ -139,9 +139,19 @@ Data  | Atividade
 
 Quadro 2: Função de cada integrante para a realização dos testes.
 
-<p align="justify">Como os três membros tiveram participação direta na execução dos testes, qualquer erro individual poderia ocasionar erros experimentais. Portanto, a comunicação foi muito importante, haja vista que os três integrantes deveriam estar bem alinhados uns com os outros. Assim, as primeiras execuções do experimento serviram para "calibrar" a sincronia entre os integrantes. Para cada execução, o Bruno fazia uma contagem regressiva para que o Felipe preparasse o disparar do cronometro. Depois de várias tentativas, ambos atingiram uma sincronia bastante satisfatória, então, os dados começaram a ser medidos. Após cada teste, a fumaça do balde era reposta pelo Álef.</p>
-<img width="400px" height="700px"src="Produção de vórtice_vista 1.gif"/>
-<p align="justify">Somado a isso, o grupo teve a preocupação de executar os testes da forma mais homogênea possível. Dessa forma, até a posição em que o Álef segurava o balde se manteve constante, assim como a orientação do balde. Foi utilizado um pedaço de fita isolante na lateral do balde para a sua orientação, assim, em todos os testes, essa fita isolante esteve apontada para cima. E, após uma série de testes, a fumaça era evacuada do ambiente para manter os testes sob as mesmas condições até mesmo em relação à quantidade de fumaça no ambiente.</p>
+<p align="justify">Como os três membros tiveram participação direta na execução dos testes, qualquer erro individual poderia ocasionar erros experimentais. Portanto, a comunicação foi muito importante, haja vista que os três integrantes deveriam estar bem alinhados uns com os outros. Assim, as primeiras execuções do experimento serviram para "calibrar" a sincronia entre os integrantes. Para cada execução, o Bruno fazia uma contagem regressiva para que o Felipe preparasse o disparar do cronometro. Depois de várias tentativas, ambos atingiram uma sincronia bastante satisfatória, então, os dados começaram a ser medidos. Após cada teste, a fumaça do balde era reposta pelo Álef. Os gifs 5 e 6 exemplificam como os testes foram realizados.</p>
+
+<p align="center">
+  <img width="400px" height="700px"src="Produção de vórtice_vista 1.gif"/> <br />
+  Gif 5: Visão do Álef durante a realização dos testes.
+</p>
+
+<p align="center">
+  <img width="400px" height="700px"src="Produção de vórtice_vista 2.gif"/> <br />
+  Gif 6: Visão do Felipe durante a realização dos testes.
+</p>
+
+<p align="justify">Somado a isso, o grupo teve a preocupação em tentar executar os testes da forma mais homogênea possível. Dessa forma, até a posição em que o Álef segurava o balde se manteve constante, assim como a orientação do balde. Foi utilizado um pedaço de fita isolante na lateral do balde para a sua orientação, assim, durante os testes, essa fita isolante esteve apontada para cima. E, após uma série de testes, a fumaça era evacuada do ambiente com a intenção de manter os testes sob as mesmas condições até mesmo em relação à quantidade de fumaça no ambiente.</p>
 
 ## Dados Medidos
 <p align="justify">O experimento foi sujeito a diversos erros experimentais. Como descrito acima, nenhuma das medições foram feitas por sensores ou mecanismos muito precisos, portanto a possibilidade de invalidação do teste era alta. As principais fontes de erro experimental eram de origem humana, a força aplicada pelo Bruno, apesar de ser utilizado o limitador, não era constante para todos os testes, a angulação e altura do balde não eram exatamente as mesmas, fazendo com que o vórtex tivesse que percorrer um espaço maior ou menos que os 5 metros iniciais dependendo do teste. Outro função crucial para validar os testes era a cronometragem dos tempos no qual o vórtex percorria até chegar ao ponto delimitado e como era feita manualmente pelo Felipe, o mesmo não tinha o tempo de reação nem a precisão de uma máquina, fazendo com que os dados obtidos não tivessem necessariamente no intervalo de tempo real. </p>
