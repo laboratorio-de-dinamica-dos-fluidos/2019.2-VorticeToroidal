@@ -14,7 +14,10 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 
 <p align="justify">Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vórtex diametralmente opostos rotacinam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
 
-![](gif1_lasersection.gif) Gif 1: Visualização da seção transversal de um vórtice toroidal.
+<p align="center">
+  <img width="400px" height="400px"src="gif1_lasersection.gif"/> <br />
+  Gif 1: Visualização da seção transversal de um vórtice toroidal.
+</p>
 
 ## Requisitos de Solução
 <p align="justify">Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao diâmetro. Para isso, é necessário:
@@ -56,16 +59,24 @@ Data  | Atividade
 ## Resultados Esperados 
 <p align="justify">Um fenômeno semelhante ao analisado nesse experimento pode ser observado na natureza em interações entre furacões, pois quando formados no mesmo hemisfério eles rotacionam no mesmo sentido, logo tem um efeito semelhante a um furacão orbitar o outro, como pode ser visto no Gif 2:</p>
 
-
-![](gif2_orbita.gif) Gif 2: Visualização da interação entre vórtices de mesmo sentido.
+<p align="center">
+  <img width="400px" height="400px"src="gif2_orbita.gif"/> <br />
+  Gif 2: Visualização da interação entre vórtices de mesmo sentido.
+</p>
   
 <p align="justify">Porém, quando furacões de hemisférios diferentes estão próximos eles se movem na direção em que o vetor de vórtice aponta entre os dois. Como pode ser visualizado no Gif 3:</p>
 
-![](gif3_reta.gif) Gif 3: Visualização da interação entre vórtices de sentidos diferentes.
+<p align="center">
+  <img width="400px" height="400px"src="gif3_reta.gif"/> <br />
+  Gif 3: Visualização da interação entre vórtices de sentidos diferentes.
+</p>
   
 <p align="justify">Uma secção do vórtice toroidal tem esse mesmo comportamento ao longo de todo o vórtice, como pode ser visualizado no Gif 4:</p>
 
-![](gif4_sentidos.gif) Gif 4: Visualização do sentido da linha de vortice em pontos diametralmente opostos do vórtice toroidal.
+<p align="center">
+  <img width="400px" height="400px"src="gif4_sentidos.gif"/> <br />
+  Gif 4: Visualização do sentido da linha de vortice em pontos diametralmente opostos do vórtice toroidal.
+</p>
 
 <p align="justify">Assim é esperado que o movimento seja descrito por um vetor de velocidade dependente dos mesmo parâmetros, sendo assim, perpendicular ao plano que contém a linha de vórtice, no sentido dos vetores de vórtice mais próximos do centro e com magnitude dependente da distância mínima entre os vetores de vórtice diametralmente opostos, ou seja, é esperado que a velocidade do vórtice seja inversamente proporcional ao seu diâmetro. Isso será aferido graficamente por meio das medições retiradas do experimento.</p>
 
@@ -180,36 +191,36 @@ Quadro 2: Função de cada integrante para a realização dos testes.
 <p align="justify">Para visualização gráfica e cálculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão exponencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
 
 <p align="center">
-<img width="500px" height="300px" src="image.png"/>
+<img width="500px" height="300px" src="image.png"/> <br />
 Gráfico 1.1: Dados de velocidade vs diâmetro com regressão exponencial pelo excel.</p>
 
 <p align="center">
-<img width="500px" height="350px" src="vxd_e.jpg"/>
+<img width="600px" height="500px" src="vxd_e.jpg"/> <br />
 Gráfico 1.2: Dados de velocidade vs diâmetro com regressão exponencial pelo MATLAB.</p>
 
-<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcional, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 7</p>
+<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcional, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 2</p>
 
 <p align="center">
-<img width="500px" height="350px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/>  
-Gráfico 7: Linearização dos dados com log X log.</p>
+<img width="500px" height="350px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/>  <br />
+Gráfico 2: Linearização dos dados com log X log.</p>
 
-<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relação v = 1/(11,1686325d^1,483), com o gráfico 8 para comparação, obtido a partir do MATLAB:</p>
-
-<p align="center">
-<img width="500px" height="350px" src="vxd.jpg"/>
-Gráfico 8: Comparação dos dados da tabela com a relação inversamente proporcional obtida.</p>
-
-<p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado no gráfico 9.1 e no 9.2 para comparação com as regressões utilizadas:</p>
+<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relação v = 1/(11,1686325d^1,483), com o gráfico 3 para comparação, obtido a partir do MATLAB:</p>
 
 <p align="center">
-<img width=500px" height="350px" src="vxderrzoom.jpg"/>
-Gráfico 9.1: Comparação dos dados da tabela com a relação inversamente proporcional com adição do desvio padrão.</p>
+<img width="600px" height="500px" src="vxd.jpg"/> <br />
+Gráfico 3: Comparação dos dados da tabela com a relação inversamente proporcional obtida.</p>
+
+<p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado no gráfico 4.1 e no 4.2 para comparação com as regressões utilizadas:</p>
 
 <p align="center">
-<img width="500px" height="350px" src="vxd_ezoom.jpg"/>
-Gráfico 9.2: Comparação dos dados da tabela com a relação exponencial  com adição do desvio padrão.</p>
+<img width=600px" height="500px" src="vxderrzoom.jpg"/> <br />
+Gráfico 4.1: Comparação dos dados da tabela com a relação inversamente proporcional com adição do desvio padrão.</p>
 
-<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levando em consideração a quantia limitada de diâmetros que puderam ser testados devido as dificuldades do experimento, porém, ao se observar novamente o gráfico 7, é esperado que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
+<p align="center">
+<img width="600px" height="500px" src="vxd_ezoom.jpg"/> <br />
+Gráfico 4.2: Comparação dos dados da tabela com a relação exponencial  com adição do desvio padrão.</p>
+
+<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levando em consideração a quantia limitada de diâmetros que puderam ser testados devido as dificuldades do experimento, porém, ao se observar novamente o gráfico 3, é esperado que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
 
 <p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situação, a relação v = a/(d^v) é, porém os valores de a e b são particulares as condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores, esses valores podem, e devem, ser diferentes.</p>
 
