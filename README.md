@@ -150,8 +150,6 @@ Data  | Atividade
 |Bruno     |Esticar o balão sempre com a mesma força|
 |Felipe    |Cronometrar o tempo|
 
-Quadro 2: Função de cada integrante para a realização dos testes.
-
 <p align="justify">Como os três membros tiveram participação direta na execução dos testes, qualquer erro individual poderia ocasionar erros experimentais. Portanto, a comunicação foi muito importante, haja vista que os três integrantes deveriam estar bem alinhados uns com os outros. Assim, as primeiras execuções do experimento serviram para "calibrar" a sincronia entre os integrantes. Para cada execução, o Bruno fazia uma contagem regressiva para que o Felipe preparasse o disparar do cronometro. Depois de várias tentativas, ambos atingiram uma sincronia bastante satisfatória, então, os dados começaram a ser medidos. Após cada teste, a fumaça do balde era reposta pelo Álef. Os gifs 5 e 6 apenas exemplificam como os testes foram realizados.</p>
 
 <p align="center">
@@ -188,30 +186,30 @@ Quadro 2: Função de cada integrante para a realização dos testes.
 
 # Seção 4: Análise e Conclusão
 
-## Resultados
-<p align="justify">Para visualização gráfica e cálculo dos dados foi utilizado o Excel e o Matlab, a partir deles feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo, foi feita a regressão exponencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
+## Resultados e Conclusão
+<p align="justify">Para a visualização gráfica e cálculo dos dados, foi utilizado o Excel e o MATLAB. A partir deles foi feita a tabela que demonstra a relação entre a velocidade e o diâmetro do furo. Foi feita a regressão exponencial e encontrada a equação v = 7,724exp(-11,6d), como mostrado nos gráficos 1.1 e 1.2:</p>
 
 <p align="center">
 <img width="500px" height="300px" src="image.png"/> <br />
-Gráfico 1.1: Dados de velocidade vs diâmetro com regressão exponencial pelo excel.</p>
+Gráfico 1.1: Dados de velocidade vs diâmetro com regressão exponencial pelo Excel.</p>
 
 <p align="center">
 <img width="600px" height="500px" src="vxd_e.jpg"/> <br />
 Gráfico 1.2: Dados de velocidade vs diâmetro com regressão exponencial pelo MATLAB.</p>
 
-<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcional, o gráfico foi linearizado utilizando um gráfico log X log, encontrando se a equação v = -1,423d-1,048, como mostrado no gráfico 2</p>
+<p align="justify">Para efeito de comparação com a hipótese do comportamento da velocidade como inversamente proporcional ao diâmetro, por não haver opção de regressão inversamente proporcional, o gráfico foi linearizado utilizando um gráfico log X log, encontrando-se a equação v = -1,423d-1,048, como mostrado no Gráfico 2.</p>
 
 <p align="center">
-<img width="500px" height="350px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/>  <br />
+<img width="500px" height="350px" src="WhatsApp Image 2019-11-15 at 21.51.50.jpeg"/> <br />
 Gráfico 2: Linearização dos dados com log X log.</p>
 
-<p align="justify">Em seguida, a partir da equação da reta foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relação v = 1/(11,1686325d^1,483), com o gráfico 3 para comparação, obtido a partir do MATLAB:</p>
+<p align="justify">Em seguida, a partir da equação da reta, foram achados os coeficientes para a equação em caso inversamente proporcional, tendo-se a relação v = 1/(11,1686325d^1,483), com o Gráfico 3 para comparação, obtido a partir do MATLAB.</p>
 
 <p align="center">
 <img width="600px" height="500px" src="vxd.jpg"/> <br />
 Gráfico 3: Comparação dos dados da tabela com a relação inversamente proporcional obtida.</p>
 
-<p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado no gráfico 4.1 e no 4.2 para comparação com as regressões utilizadas:</p>
+<p align="justify">Para visualização do desvio dos dados, o desvio padrão foi adicionado como barra de erro com o resultado demonstrado nos gráficos 4.1 e 4.2 para comparação com as regressões utilizadas:</p>
 
 <p align="center">
 <img width=600px" height="500px" src="vxderrzoom.jpg"/> <br />
@@ -221,13 +219,6 @@ Gráfico 4.1: Comparação dos dados da tabela com a relação inversamente prop
 <img width="600px" height="500px" src="vxd_ezoom.jpg"/> <br />
 Gráfico 4.2: Comparação dos dados da tabela com a relação exponencial  com adição do desvio padrão.</p>
 
-<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mis ainda levando em consideração a quantia limitada de diâmetros que puderam ser testados devido as dificuldades do experimento, porém, ao se observar novamente o gráfico 3, é esperado que, devido a linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado</p>
+<p align="justify">Como pode ser visto, é uma escolha difícil entre as regressões, mais ainda levando em consideração a quantia limitada de diâmetros que puderam ser testados devido às dificuldades do experimento, porém, ao se observar novamente o Gráfico 3, é esperado que, devido à linearização com o uso do log X log, a regressão inversamente proporcional seja a mais adequada, assim como o esperado.</p>
 
-<p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situação, a relação v = a/(d^v) é, porém os valores de a e b são particulares as condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores, esses valores podem, e devem, ser diferentes.</p>
-
-## Imagens
-
-<img width="400px" height="400px" src="Máquina de fumaça.jpeg"/>
-<img width="400px" height="700px"src="Produção de vórtice_vista 1.gif"/>
-<img width="400px" height="700px"src="Produção de vórtice_vista 2.gif"/>
-<img width="400px" height="700px"src="Produção de vórtice_vista 3.gif"/>
+<p align="justify">É importante ressaltar que a validade da equação dada não é para toda a situação, já a relação v = a/(d^v) é, porém, os valores de a e b são particulares às condições do experimento realizado, para diferentes forças de aplicação, diferentes geometrias, diferentes condições do ambiente, e diversos outros fatores. Esses valores podem, e devem, ser diferentes.</p>
