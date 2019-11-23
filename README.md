@@ -10,17 +10,17 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 ## Experimento
 <p align="justify">O objetivo deste experimento é determinar como o diâmetro de um vórtice toroidal interfere em sua velocidade. Para isso, será medida experimentalmente a velocidade de vórtices quando a linha de vórtice forma um anel (um vórtice com topologia toroidal) e ela será comparada com o diâmetro do vórtice.</p>
 
-<p align="justify">Se uma linha de vórtex é uma curva tangente em todos os pontos ao vetor do vórtex ω = ∇ × **u** e uma folha de vórtex é uma superfície tangente ao mesmo vetor em todos os pontos, a superfície (ou curva) de vórtex se movendo em um escoamento em um fluído isentrópico continua como uma superfície (ou curva) de vórtex. De acordo com o teorema de Helmholtz se um tubo de vórtex é uma coleção de linhas de vórtex, tal que elas podem se estender umas sobre as outras, então a força do tubo de vórtex é constante. Em outras palavras, vórtices são estáveis. Uma configuração ainda mais estável é quando o eixo central dos tubos de vórtex forma um anel.</p>
+<p align="justify">Se uma linha de vórtex é uma curva tangente em todos os pontos ao vetor do vórtex (ω = ∇ × u) e uma folha de vórtex é uma superfície tangente ao mesmo vetor em todos os pontos, a superfície (ou curva) de vórtex se movendo em um escoamento em um fluido isentrópico continua como uma superfície (ou curva) de vórtex. De acordo com o teorema de Helmholtz, se um tubo de vórtex é uma coleção de linhas de vórtex, tal que elas podem se estender umas sobre as outras, então a força do tubo de vórtex é constante. Em outras palavras, vórtices são estáveis. Uma configuração ainda mais estável é quando o eixo central dos tubos de vórtex forma um anel.</p>
 
-<p align="justify">Uma característica interessante dessa configuração é que, seguindo-se a linha de vórtice, os vetores de vórtex diametralmente opostos rotacinam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
+<p align="justify">Uma característica interessante dessa configuração é que, seguindo a linha de vórtice, os vetores de vórtex diametralmente opostos rotacinam em sentidos diferentes, esse efeito causa um movimento retilíneo, como mostrado no Gif 1:</p>
 
 <p align="center">
-  <img width="400px" height="400px"src="gif1_lasersection.gif"/> <br />
+  <img src="gif1_lasersection.gif"/> <br />
   Gif 1: Visualização da seção transversal de um vórtice toroidal.
 </p>
 
 ## Requisitos de Solução
-<p align="justify">Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao diâmetro. Para isso, é necessário:
+<p align="justify">Desenvolver um sistema que possibilite mensurar a velocidade do vórtex em relação ao seu diâmetro. Para isso, é necessário:
 <ul><li> Um dispositivo para criar o vórtex;</li>
 <li>Observar o vórtex nos seguintes pontos: diâmetro de saída do dispositivo, tempo de duração e distância percorrida usando aparatos de medição;</li> 
 <li>Relacionar os resultados em tabelas e gráficos para determinar a relação entre a velocidade e o diâmetro.</li></ul></p>
@@ -28,9 +28,9 @@ Felipe Moreno Lago dos Anjos (felipemoreno9) - 17/0033392 <br />
 ## Escopo do Experimento
 <p align="justify">Para que seja determinada a relação entre a velocidade do vórtice e o seu diâmetro, primeiramente é necessária a construção de um equipamento que produza os vórtices. Dessa forma, e por determinação do grupo, tal equipamento usará fumaça como fonte para a produção dos vórtices, sendo eles produzidos e analisados no ar. Os mesmos poderiam ser produzidos na água, mas, por conveniência do grupo, a utilização do ar como meio de propagação dos vórtices torna o experimento mais simples.</p>
 
-<p align="justify">Em relação ao equipamento que será construído, sua principal função será produzir os vórtices com o diâmetro bem definido. Serão analisados vórtices de 10 diâmetros distintos. Assim, a saída do equipamento, por onde os vórtices passarão, terá uma atenção especial porque deverá ser variável de acordo com o diâmetro desejado. No entanto, o equipamento não é complexo. Sua estrutura será composta, basicamente, por uma entrada de fumaça, uma câmara para o seu armazenamento e uma saída para os vórtices. A produção dos vórtices será devida a uma força externa que agirá no equipamento, impulsionando a fumaça à saída e nela formando os anéis de fumaça naturalmente.</p>
+<p align="justify">Em relação ao equipamento que será construído, sua principal função será produzir os vórtices com o diâmetro bem definido. Serão analisados vórtices de 10 diâmetros distintos. Assim, a saída do equipamento, por onde os vórtices passarão, terá uma atenção especial, pois deverá ser variável de acordo com o diâmetro desejado. No entanto, o equipamento não é complexo. Sua estrutura será composta, basicamente, por uma entrada de fumaça, uma câmara para o seu armazenamento e uma saída para os vórtices. A produção dos vórtices será devida a uma força externa que agirá no equipamento, impulsionando a fumaça à saída e nela formando os anéis de fumaça naturalmente.</p>
 
-<p align="justify">Para a coleta de dados do experimento, serão medidos, a partir da formação (saída do equipamento) até uma parede a uma distância fixa, o tempo de viagem de cada anel de fumaça com um cronômetro. Esses dados (valores de tempo, distância percorrida e diâmetro da abertura) serão organizados em uma planilha para análise posterior.</p>
+<p align="justify">Para a coleta de dados do experimento, serão medidos, a partir da formação (saída do equipamento) até uma distância fixa, o tempo de viagem de cada anel de fumaça com um cronômetro. Esses dados (valores de tempo, distância percorrida e diâmetro da abertura) serão organizados em uma planilha para análise posterior.</p>
 
 <p align="justify">Por fim, para minimizar os efeitos de irregularidades no ambiente e diferenças na formação dos vórtices de mesmo diâmetro, serão feitos múltiplos testes e uma análise estatística dos dados. Após a coleta de dados, será determinada a relação entre as grandezas medidas.</p>
 
